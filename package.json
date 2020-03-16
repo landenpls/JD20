@@ -1,0 +1,13 @@
+{
+  "name": "JD20",
+  "version": "1.1.0",
+  "lockfileVersion": 1,
+  "requires": false,
+  "main": "main.js",
+  "scripts": {
+    "test": "electron\\electron.exe main.js"
+  },
+  "dependencies": {
+  	"electron": "*"
+  }
+}
